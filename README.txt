@@ -1,4 +1,4 @@
-This folder was created by Victor just incase for utility purposes. 
+This folder was created by GuiltsMC just incase for utility purposes. 
 #################################################################
   ---------------------------------------------------------------------------------
 == Number 1: Cleaning up computer, and installing any programs you may find useful. ==
