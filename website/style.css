@@ -1,8 +1,40 @@
 .header {
     text-align:center;
     font-size:28px;
+    font-family:'Helvetica';
 }
 .ChapterOpen {
     text-align:center;
     font-size:26px;
+    font-family:'Trebuchet MS';
+}
+ul {
+    list-style-type:greek;
+    list-style-position:outside;
+}
+.classicText {
+    text-indent:1cm;
+    font-family:'Segoe UI';
+}
+body {
+    background-color:#899789;
+}
+.header-container {
+    position:fixed;
+    top: 0;
+    left:0;
+    width:100%;
+    height:50px;
+    height:fit-content;
+    background-color:#798779;
+}
+a {
+    text-decoration:none;
+    font-family:'Helvetica';
+    color:black;
+    transition:all ease 0.4s;
+}
+a:hover {
+    color:white;
+    transform:scale(1.034);
 }
