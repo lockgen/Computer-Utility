@@ -1,1 +1,1 @@
-iwr -useb https://christitus.com/win | iex
+irm christitus.com/win | iex
